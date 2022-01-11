@@ -16,3 +16,6 @@ Feel free copy, distribute, adapt, merge and improve it.
 # Structure of this project
 The project is grouped by language in the first level. Each language has a main markdown file that provides the meta information.
 For each documentation type as e.g. how-to or installation guide, a subdirectory exists with a specific markdown file and related assets.
+
+# Content
+- [Documentation types - English version](en/index.md) - main version of software documentation templates
