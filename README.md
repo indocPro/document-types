@@ -19,3 +19,7 @@ For each documentation type as e.g. how-to or installation guide, a subdirectory
 
 # Content
 - [Documentation types - English version](en/index.md) - main version of software documentation templates
+
+
+Related links
+https://github.com/topics/documentation-website and https://github.com/topics/documentation-template
