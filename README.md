@@ -19,4 +19,7 @@ For each documentation type as e.g. how-to or installation guide, a subdirectory
 
 # Content
 - [Documentation types - English version](en/index.md) - main version of software documentation templates
-- [Endbenutzer-Dokumentation - Deutsche Version](de/index.md) - German translation of the software documentation templates 
+- [Endbenutzer-Dokumentation - Deutsche Version](de/index.md) - German translation of the software documentation templates
+
+Related links
+- https://github.com/topics/documentation-website and https://github.com/topics/documentation-template
